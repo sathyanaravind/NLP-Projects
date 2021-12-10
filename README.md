@@ -1,4 +1,4 @@
-This repository contains various NLP projects
+This repository contains the following NLP projects
 
 [HuggingFace Projects](https://github.com/sathyanaravind/NLP-Projects/tree/main/HuggingFace-NLP)
 
