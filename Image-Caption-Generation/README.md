@@ -1,9 +1,9 @@
 
 The Image Caption Generator is implemented in the following steps
 
-1.Import all the necessary packages
+1. Import all the necessary packages
 
-2.Data Cleaning
+2. Data Cleaning
 
 3. Extract features from images
 
